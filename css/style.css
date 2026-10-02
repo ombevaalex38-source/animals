@@ -1,0 +1,7 @@
+body{background-color:pink;}
+h1{
+color:purple;
+border-bottom:4px solid black;}
+.animals{color:yellow;}
+
+#dog{border:2px dotted green; border-radius:50%;}
